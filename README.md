@@ -2,17 +2,9 @@
 Contains informations about changes to the ARK server [PVE] Farmers Arkers
 
 #Upcoming
-- Changes to the mods configs
 - More mods?
-- Changes to Beacons
-	priority order will be in these categories
-	- Surface beacons
-	- Sea beacon
-	- low lvl surface Caves(4-x caves?)
-	- high lvl surface Caves(2 caves)
-	- 2 sea caves
-	- perhaps boss loot? yay
-	
+- More info about changes
+
 #General Server Settings
 - PVE server...
 - Taming is 2 times faster than default
