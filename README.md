@@ -9,7 +9,7 @@ Contains informations about changes to the ARK server [PVE] Farmers Arkers
 - PVE server...
 - Taming is 2 times faster than default
 - Harvest is 10 times faster
-- Xp gaines is 10 times higher than default
+- Xp gaines is 1 times higher than default
 - spoiling timer is 100 times longer than default
 - no friendly fire(yay no idiots shooting eachother)
 - Crop growth is 5 times faster
